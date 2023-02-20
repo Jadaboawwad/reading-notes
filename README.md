@@ -41,22 +41,35 @@ also it's includes my knowledge experince at backend development technologies.
 
 ## **Code 201 - Foundations of Software Development**
 
-| Class Number | Class Title                                                                                                                               |
-| :----------- | :---------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 1.           | [Introductory HTML and JavaScript](https://jadaboawwad.github.io/reading-notes/Code201/class-01)                                          |
-| 2.           | [Basics of HTML, CSS & JS](https://jadaboawwad.github.io/reading-notes/Code201/class-02)                                                  |
-| 3.           | [HTML Lists, Control Flow with JS, and the CSS Box Model](https://jadaboawwad.github.io/reading-notes/Code201/class-03)                   |
-| 4.           | [HTML Links, JS Functions, and Intro to CSS Layout](https://jadaboawwad.github.io/reading-notes/Code201/class-04)                         |
-| 5.           | [HTML Images; CSS Color & Text](https://jadaboawwad.github.io/reading-notes/Code201/class-05)                                             |
-| 6.           | [ JS Object Literals; The DOM](https://jadaboawwad.github.io/reading-notes/Code201/class-06)                                              |
-| 7.           | [Object-Oriented Programming, HTML Tables](https://jadaboawwad.github.io/reading-notes/Code201/class-07)                                  | \   |
-| 8.           | [HTML Layout](https://jadaboawwad.github.io/reading-notes/Code201/class-08)                                                               |
-| 9.           | [Forms and JS Events](https://jadaboawwad.github.io/reading-notes/Code201/class-09)                                                       |
-| 10.          | [Debugging](https://jadaboawwad.github.io/reading-notes/Code201/class-10)                                                                 |
-| 11.          | [Audio, Video, Images](https://jadaboawwad.github.io/reading-notes/Code201/class-11)                                                      |
-| 12.          | [Chart.js API and Canvas API](https://jadaboawwad.github.io/reading-notes/Code201/class-12)                                               |
-| 13.          | [The Local Storage for Web Applications](https://jadaboawwad.github.io/reading-notes/Code201/class-13)                                    |
-| 14.          | [CSS Transforms, Transitions, Animations and How to Build the Perfect Team](https://jadaboawwad.github.io/reading-notes/Code201/class-14) |
+| Class Number | Class Title |
+
+| 1. | [Introductory HTML and JavaScript](https://jadaboawwad.github.io/reading-notes/Code201/class-01) |
+
+| 2. | [Basics of HTML, CSS & JS](https://jadaboawwad.github.io/reading-notes/Code201/class-02) |
+
+| 3. | [HTML Lists, Control Flow with JS, and the CSS Box Model](https://jadaboawwad.github.io/reading-notes/Code201/class-03) |
+
+| 4. | [HTML Links, JS Functions, and Intro to CSS Layout](https://jadaboawwad.github.io/reading-notes/Code201/class-04) |
+
+| 5. | [HTML Images; CSS Color & Text](https://jadaboawwad.github.io/reading-notes/Code201/class-05) |
+
+| 6. | [ JS Object Literals; The DOM](https://jadaboawwad.github.io/reading-notes/Code201/class-06) |
+
+| 7. | [Object-Oriented Programming, HTML Tables](https://jadaboawwad.github.io/reading-notes/Code201/class-07) | \ |
+
+| 8. | [HTML Layout](https://jadaboawwad.github.io/reading-notes/Code201/class-08) |
+
+| 9. | [Forms and JS Events](https://jadaboawwad.github.io/reading-notes/Code201/class-09) |
+
+| 10. | [Debugging](https://jadaboawwad.github.io/reading-notes/Code201/class-10) |
+
+| 11. | [Audio, Video, Images](https://jadaboawwad.github.io/reading-notes/Code201/class-11) |
+
+| 12. | [Chart.js API and Canvas API](https://jadaboawwad.github.io/reading-notes/Code201/class-12) |
+
+| 13. | [The Local Storage for Web Applications](https://jadaboawwad.github.io/reading-notes/Code201/class-13) |
+
+| 14. | [CSS Transforms, Transitions, Animations and How to Build the Perfect Team](https://jadaboawwad.github.io/reading-notes/Code201/class-14) |
 
 ## **Code 301 - Intermediate Software Development**
 
