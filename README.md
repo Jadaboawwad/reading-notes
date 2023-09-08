@@ -1,7 +1,7 @@
 ## Jehad Abu Awwad Reading Notes
 
 <p align="center">
-  <img width="600" height="300" src="https://jadabuawwad.github.io/reading-notes/images/LOGO.png">
+  <img width="600" height="300" src="https://raw.githubusercontent.com/Jadaboawwad/reading-notes/main/images/LOGO.png">
 </p>
 
 Hello , This is Jad Abu Awwad Greeting you and you are now in the heaven of coding and web development
